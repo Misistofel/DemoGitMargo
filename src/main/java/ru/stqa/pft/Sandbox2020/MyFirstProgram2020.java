@@ -11,6 +11,7 @@ public class MyFirstProgram2020 {
     public static void hello(String name) {
     System.out.println("Hello, my dear smart girl"+ name);
       System.out.println("Git is my love");
+      System.out.println("Git is my develop branch");
   }
 
 
