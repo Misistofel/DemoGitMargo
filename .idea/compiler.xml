@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="GitLearning.main" target="11" />
+      <module name="GitLearning.test" target="11" />
       <module name="Sandbox_2020.main" target="11" />
       <module name="Sandbox_2020.test" target="11" />
     </bytecodeTargetLevel>
